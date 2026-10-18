@@ -1,0 +1,301 @@
+﻿scenario_id,scenario_type,language,expected_label,message,scenario_group_id
+S112,account_takeover,en,suspicious,Share the one-time code you just received so I can secure your account.,EN-S012
+S124,account_takeover,en,suspicious,Enter your banking login on this page to cancel the payment.,EN-S024
+S012,account_takeover,ta,suspicious,பரிசு வென்றதாகக் கூறி வங்கி விவரங்களையும் அடையாள ஆவணத்தையும் கேட்கிறது.,TA-S012
+S024,account_takeover,ta,suspicious,கடன் உடனே ஒப்புதல் பெற முன்கட்டணம் செலுத்த வேண்டும் என முகவர் கூறுகிறார்.,TA-S024
+S212,account_takeover,tanglish,suspicious,Un phone ku vandha OTP ah share pannina account secure pannalaam nu solraanga.,TL-S012
+S224,account_takeover,tanglish,suspicious,Payment cancel panna indha page la banking login enter pannu nu solraanga.,TL-S024
+S135,appointment,en,legitimate,Your clinic appointment is confirmed for Tuesday at 10 AM.,EN-L002
+S141,appointment,en,legitimate,Customer support has received your request under reference DEMO-204.,EN-L008
+S147,appointment,en,legitimate,Your monthly subscription renewal is shown in your account.,EN-L014
+S153,appointment,en,legitimate,The delivery status says your order has left the warehouse.,EN-L020
+S159,appointment,en,legitimate,Your train booking details are available in the official travel app.,EN-L026
+S165,appointment,en,legitimate,Attendance for the seminar will be recorded when the session begins.,EN-L032
+S036,appointment,ta,legitimate,உங்கள் மருத்துவ சந்திப்பு செவ்வாய்க்கிழமை காலை பத்து மணிக்கு உறுதி செய்யப்பட்டுள்ளது.,TA-L002
+S042,appointment,ta,legitimate,வாடிக்கையாளர் சேவை உங்கள் புகாரைப் பெற்றுள்ளது; குறிப்பு எண் மாதிரி-204.,TA-L008
+S048,appointment,ta,legitimate,உங்கள் மாத சந்தா புதுப்பிக்கப்பட்டது; விவரம் அதிகாரப்பூர்வ கணக்கில் உள்ளது.,TA-L014
+S054,appointment,ta,legitimate,உங்கள் ஆர்டர் கிடங்கில் இருந்து புறப்பட்டதாக விநியோக நிலை காட்டுகிறது.,TA-L020
+S060,appointment,ta,legitimate,உங்கள் ரயில் முன்பதிவு விவரம் அதிகாரப்பூர்வ பயணச் செயலியில் உள்ளது.,TA-L026
+S066,appointment,ta,legitimate,கல்லூரி கருத்தரங்குக்கான வருகைப் பதிவு வகுப்பு தொடங்கும்போது செய்யப்படும்.,TA-L032
+S235,appointment,tanglish,legitimate,Ungaloda clinic appointment Tuesday kaalai 10 manikku confirm aagirukku.,TL-L002
+S241,appointment,tanglish,legitimate,Customer support unga request ah DEMO-204 reference la receive pannirukkaanga.,TL-L008
+S247,appointment,tanglish,legitimate,Monthly subscription renew aana detail unga account la theriyum.,TL-L014
+S253,appointment,tanglish,legitimate,Order warehouse la irundhu kelambiduchu nu delivery status kaattudhu.,TL-L020
+S259,appointment,tanglish,legitimate,Train booking details official travel app la irukku.,TL-L026
+S265,appointment,tanglish,legitimate,Seminar start aagumbodhu attendance mark pannuvaanga.,TL-L032
+S104,bank_impersonation,en,suspicious,This bank support agent needs your card PIN to reverse the transaction.,EN-S004
+S116,bank_impersonation,en,suspicious,Your mobile service will end today unless you submit your ID and code here.,EN-S016
+S128,bank_impersonation,en,suspicious,Provide your email password to restore access to your account.,EN-S028
+S004,bank_impersonation,ta,suspicious,வங்கி அதிகாரி பேசுகிறேன் என்று கூறி உங்கள் PIN-ஐ கேட்கிறார்.,TA-S004
+S016,bank_impersonation,ta,suspicious,கணக்கு முடக்கப்படாமல் இருக்க இந்த அறியாத இணையதளத்தில் உள்நுழையச் சொல்கிறது.,TA-S016
+S028,bank_impersonation,ta,suspicious,பார்சல் முகவரியை மாற்ற அறியாத தளத்தில் கார்டு தகவலை உள்ளிடச் சொல்கிறது.,TA-S028
+S204,bank_impersonation,tanglish,suspicious,Bank support nu pesura aal card PIN kekkuraar.,TL-S004
+S216,bank_impersonation,tanglish,suspicious,Mobile service stop aagum nu solli ID details um code um kekkuraanga.,TL-S016
+S228,bank_impersonation,tanglish,suspicious,Account access restore panna email password share pannunga nu kekkuraanga.,TL-S028
+S170,casual_update,en,neutral,I am planning to cook something simple tonight.,EN-N003
+S174,casual_update,en,neutral,I am waiting near the bus stop.,EN-N007
+S178,casual_update,en,neutral,Our plan for tomorrow is not final yet.,EN-N011
+S182,casual_update,en,neutral,I might be a little late today.,EN-N015
+S186,casual_update,en,neutral,I have looked at the file you sent.,EN-N019
+S190,casual_update,en,neutral,Will you have time to share your opinion?,EN-N023
+S194,casual_update,en,neutral,What are your plans for tomorrow morning?,EN-N027
+S198,casual_update,en,neutral,Would you like to get coffee later?,EN-N031
+S070,casual_update,ta,neutral,இன்று மதிய உணவுக்கு என்ன சாப்பிடலாம்?,TA-N003
+S074,casual_update,ta,neutral,இந்த வார இறுதியில் படம் பார்க்கலாமா?,TA-N007
+S078,casual_update,ta,neutral,இன்று மாலை வானிலை நன்றாக இருக்கிறது.,TA-N011
+S082,casual_update,ta,neutral,வகுப்பு எத்தனை மணிக்கு முடியும்?,TA-N015
+S086,casual_update,ta,neutral,இந்தப் பாடம் எனக்கு கொஞ்சம் கடினமாக இருக்கிறது.,TA-N019
+S090,casual_update,ta,neutral,அடுத்த வாரம் ஒரு நாள் சந்திக்கலாம்.,TA-N023
+S094,casual_update,ta,neutral,வீட்டுப்பாடத்தை முடித்துவிட்டாயா?,TA-N027
+S098,casual_update,ta,neutral,அவர் இன்னும் அலுவலகத்திலிருந்து வரவில்லை.,TA-N031
+S269,casual_update,tanglish,neutral,Innikki night simple ah edhaavadhu samaikkalaam nu irukken.,TL-N003
+S273,casual_update,tanglish,neutral,Naan bus stop pakkathula wait pannittu irukken.,TL-N007
+S277,casual_update,tanglish,neutral,Naalaikku plan innum final aagala.,TL-N011
+S281,casual_update,tanglish,neutral,Innikki konjam late ah varuven.,TL-N015
+S285,casual_update,tanglish,neutral,Nee anuppina file ah paathuten.,TL-N019
+S289,casual_update,tanglish,neutral,Un opinion solla time irukkuma?,TL-N023
+S293,casual_update,tanglish,neutral,Naalaikku morning enna plan?,TL-N027
+S297,casual_update,tanglish,neutral,Later coffee kudikka polaama?,TL-N031
+S134,college_notice,en,legitimate,Your college seminar begins at 2 PM tomorrow.,EN-L001
+S140,college_notice,en,legitimate,Your payment was completed; the receipt is available in your usual banking app.,EN-L007
+S146,college_notice,en,legitimate,The college laboratory will remain open until 5 PM today.,EN-L013
+S152,college_notice,en,legitimate,Your home maintenance visit is scheduled for 3 PM tomorrow.,EN-L019
+S158,college_notice,en,legitimate,The class link for the new course is posted on the college portal.,EN-L025
+S164,college_notice,en,legitimate,Your medical report is available in the secure patient portal.,EN-L031
+S035,college_notice,ta,legitimate,நாளைய கல்லூரி கருத்தரங்கு மதியம் இரண்டு மணிக்கு தொடங்கும்.,TA-L001
+S041,college_notice,ta,legitimate,வங்கிப் பரிவர்த்தனை வெற்றிகரமாக முடிந்தது; ரசீதை அதிகாரப்பூர்வ செயலியில் பார்க்கவும்.,TA-L007
+S047,college_notice,ta,legitimate,கல்லூரி ஆய்வகம் இன்று மாலை ஐந்து மணி வரை திறந்திருக்கும்.,TA-L013
+S053,college_notice,ta,legitimate,வீட்டு பராமரிப்பு சந்திப்பு நாளை பிற்பகல் மூன்று மணிக்கு திட்டமிடப்பட்டுள்ளது.,TA-L019
+S059,college_notice,ta,legitimate,புதிய பாடநெறிக்கான வகுப்பு இணைப்பு கல்லூரி தளத்தில் பகிரப்பட்டுள்ளது.,TA-L025
+S065,college_notice,ta,legitimate,உங்கள் மருத்துவ அறிக்கை பாதுகாப்பான நோயாளர் தளத்தில் கிடைக்கிறது.,TA-L031
+S234,college_notice,tanglish,legitimate,Naalaikku college seminar 2 manikku start aagum.,TL-L001
+S240,college_notice,tanglish,legitimate,Payment complete aayiduchu; receipt usual banking app la paarkkalaam.,TL-L007
+S246,college_notice,tanglish,legitimate,College lab innikku 5 mani varaikkum open ah irukkum.,TL-L013
+S252,college_notice,tanglish,legitimate,Home maintenance visit naalaikku 3 manikku schedule pannirukkaanga.,TL-L019
+S258,college_notice,tanglish,legitimate,New course class link college portal la share pannirukkaanga.,TL-L025
+S264,college_notice,tanglish,legitimate,Medical report secure patient portal la available ah irukku.,TL-L031
+S168,conversation,en,neutral,Can we move our meeting to Friday afternoon?,EN-N001
+S172,conversation,en,neutral,Are you going to the library after class?,EN-N005
+S176,conversation,en,neutral,Did you enjoy the book?,EN-N009
+S180,conversation,en,neutral,Please remind me where we are meeting.,EN-N013
+S184,conversation,en,neutral,Are you joining the morning walk tomorrow?,EN-N017
+S188,conversation,en,neutral,"If it rains, we can stay indoors.",EN-N021
+S192,conversation,en,neutral,Should we try the new restaurant sometime?,EN-N025
+S196,conversation,en,neutral,Did you see the photos from last week?,EN-N029
+S200,conversation,en,neutral,I left my notebook at home.,EN-N033
+S068,conversation,ta,neutral,நாளைக்கு எத்தனை மணிக்கு வருவாய்?,TA-N001
+S072,conversation,ta,neutral,குழு உரையாடலில் புதிய செய்தி வந்திருக்கிறது.,TA-N005
+S076,conversation,ta,neutral,கூட்டம் முடிந்ததும் என்னை அழைக்கவும்.,TA-N009
+S080,conversation,ta,neutral,உன் குறிப்புகளை எனக்கு அனுப்ப முடியுமா?,TA-N013
+S084,conversation,ta,neutral,அந்தக் கடை ஞாயிற்றுக்கிழமை திறந்திருக்கும் என்று நினைக்கிறாயா?,TA-N017
+S088,conversation,ta,neutral,இன்றைய கூட்டத்தில் யார் யார் வருகிறார்கள்?,TA-N021
+S092,conversation,ta,neutral,நான் இப்போது வகுப்பில் இருக்கிறேன்.,TA-N025
+S096,conversation,ta,neutral,நாம் பேசிக்கொண்டிருந்த விஷயம் நினைவிருக்கிறதா?,TA-N029
+S100,conversation,ta,neutral,இன்று செய்த வேலைகளை மாலையில் பேசலாம்.,TA-N033
+S267,conversation,tanglish,neutral,Naalaikku nee ethana manikku varuva?,TL-N001
+S271,conversation,tanglish,neutral,Class mudinju library ku poriya?,TL-N005
+S275,conversation,tanglish,neutral,Unakku andha book pidichirundhucha?,TL-N009
+S279,conversation,tanglish,neutral,Naama enga meet panrom nu marubadi sollu.,TL-N013
+S283,conversation,tanglish,neutral,Naalaikku morning walk ku varriya?,TL-N017
+S287,conversation,tanglish,neutral,Mazhai vandha veetla irukkalaam.,TL-N021
+S291,conversation,tanglish,neutral,Pudhu restaurant try pannalama?,TL-N025
+S295,conversation,tanglish,neutral,Last week photos paathiya?,TL-N029
+S299,conversation,tanglish,neutral,En notebook ah veetla vittuten.,TL-N033
+S108,credential_theft,en,suspicious,Send your password so our team can confirm your identity.,EN-S008
+S120,credential_theft,en,suspicious,Pay a fee to unlock the guaranteed investment profit by midnight.,EN-S020
+S132,credential_theft,en,suspicious,Pay a fee to release a package that you never ordered.,EN-S032
+S008,credential_theft,ta,suspicious,உறவினர் அவசரத்தில் இருப்பதாகக் கூறி புதிய எண்ணுக்கு பணம் அனுப்பச் சொல்கிறார்.,TA-S008
+S020,credential_theft,ta,suspicious,இலவச பரிசை அனுப்ப முகவரியுடன் கார்டு விவரங்களையும் நிரப்பச் சொல்கிறது.,TA-S020
+S032,credential_theft,ta,suspicious,மின்சார பில் நிலுவை என்று கூறி தனிப்பட்ட வாலெட்டுக்கு பணம் அனுப்பச் சொல்கிறது.,TA-S032
+S208,credential_theft,tanglish,suspicious,Identity verify panna password anuppunga nu message kekkudhu.,TL-S008
+S220,credential_theft,tanglish,suspicious,Midnight kulla fee pay panna guaranteed investment profit unlock aagum nu solraanga.,TL-S020
+S232,credential_theft,tanglish,suspicious,Nee order pannadha parcel release panna fee pay pannu nu kekkuraanga.,TL-S032
+S139,customer_service,en,legitimate,Your tuition receipt is available on the student portal.,EN-L006
+S145,customer_service,en,legitimate,The water bill receipt has been updated on the municipal website.,EN-L012
+S151,customer_service,en,legitimate,The college sports event takes place on Saturday morning.,EN-L018
+S157,customer_service,en,legitimate,The deadline for the college fee is next Monday.,EN-L024
+S163,customer_service,en,legitimate,Customer support has marked your complaint as resolved in the official portal.,EN-L030
+S040,customer_service,ta,legitimate,உங்கள் கட்டண ரசீது கல்லூரி மாணவர் தளத்தில் கிடைக்கிறது.,TA-L006
+S046,customer_service,ta,legitimate,தண்ணீர் கட்டண ரசீது நகராட்சி இணையதளத்தில் புதுப்பிக்கப்பட்டுள்ளது.,TA-L012
+S052,customer_service,ta,legitimate,கல்லூரி விளையாட்டு நிகழ்ச்சி சனிக்கிழமை காலை நடைபெறும்.,TA-L018
+S058,customer_service,ta,legitimate,கல்லூரி கட்டணத்தின் கடைசி தேதி அடுத்த திங்கட்கிழமை.,TA-L024
+S064,customer_service,ta,legitimate,வாடிக்கையாளர் சேவை புகார் தீர்க்கப்பட்டதாக அதிகாரப்பூர்வ தளத்தில் புதுப்பித்துள்ளது.,TA-L030
+S239,customer_service,tanglish,legitimate,College fee receipt student portal la available ah irukku.,TL-L006
+S245,customer_service,tanglish,legitimate,Water bill receipt municipal website la update aagirukku.,TL-L012
+S251,customer_service,tanglish,legitimate,College sports event Saturday morning nadakkum.,TL-L018
+S257,customer_service,tanglish,legitimate,College fee pay panna last date next Monday.,TL-L024
+S263,customer_service,tanglish,legitimate,Customer support official portal la complaint resolved nu update pannirukkaanga.,TL-L030
+S102,delivery_fee_scam,en,suspicious,A parcel is waiting; pay a small redelivery fee through this unfamiliar link.,EN-S002
+S114,delivery_fee_scam,en,suspicious,"Your scholarship is approved, but first send an OTP to the coordinator.",EN-S014
+S126,delivery_fee_scam,en,suspicious,Support needs you to share your screen and open your banking app.,EN-S026
+S002,delivery_fee_scam,ta,suspicious,பரிசுத் தொகையைப் பெற முதலில் பதிவு கட்டணம் செலுத்த வேண்டும் என்று இந்தச் செய்தி கூறுகிறது.,TA-S002
+S014,delivery_fee_scam,ta,suspicious,கல்லூரி உதவித்தொகை கிடைக்க OTP-ஐ அனுப்ப வேண்டும் எனச் செய்தி வருகிறது.,TA-S014
+S026,delivery_fee_scam,ta,suspicious,காவல் துறை வழக்கு பதிவு செய்யும் என மிரட்டி உடனடி டிஜிட்டல் பணம் கோருகிறது.,TA-S026
+S202,delivery_fee_scam,tanglish,suspicious,Parcel deliver panna mudiyala nu solli unknown link la fee pay panna kekkuraanga.,TL-S002
+S214,delivery_fee_scam,tanglish,suspicious,"Scholarship approve aachu, coordinator ku OTP anuppu nu message vandhirukku.",TL-S014
+S226,delivery_fee_scam,tanglish,suspicious,Support nu solli screen share panni banking app open panna solraanga.,TL-S026
+S136,delivery_update,en,legitimate,Your parcel is out for delivery; check the carrier's official app for updates.,EN-L003
+S142,delivery_update,en,legitimate,The department says tomorrow's exam begins at 9 AM.,EN-L009
+S148,delivery_update,en,legitimate,The customer service desk opens at 10 AM tomorrow.,EN-L015
+S154,delivery_update,en,legitimate,Your payslip is available through the company's usual employee portal.,EN-L021
+S160,delivery_update,en,legitimate,The public library opens at 11 AM on Sunday.,EN-L027
+S166,delivery_update,en,legitimate,Your pickup location is listed in the order confirmation.,EN-L033
+S037,delivery_update,ta,legitimate,உங்கள் பார்சல் இன்று விநியோகத்திற்காக வெளியேறியுள்ளது; அதிகாரப்பூர்வ செயலியில் நிலையைப் பார்க்கலாம்.,TA-L003
+S043,delivery_update,ta,legitimate,நாளைய தேர்வு காலை ஒன்பது மணிக்கு தொடங்கும் என்று துறை அறிவித்துள்ளது.,TA-L009
+S049,delivery_update,ta,legitimate,வாடிக்கையாளர் சேவை மையம் நாளை காலை பத்து மணிக்கு திறக்கும்.,TA-L015
+S055,delivery_update,ta,legitimate,சம்பளச் சீட்டு நிறுவனத்தின் வழக்கமான பணியாளர் தளத்தில் வெளியிடப்பட்டுள்ளது.,TA-L021
+S061,delivery_update,ta,legitimate,நகர நூலகம் ஞாயிற்றுக்கிழமை காலை பதினொரு மணிக்கு திறக்கும்.,TA-L027
+S067,delivery_update,ta,legitimate,உங்கள் ஆர்டர் பெற்றுக்கொள்ளும் இடம் முன்பதிவில் குறிப்பிடப்பட்டுள்ளது.,TA-L033
+S236,delivery_update,tanglish,legitimate,Parcel delivery ku vandhirukku; official app la status check pannunga.,TL-L003
+S242,delivery_update,tanglish,legitimate,Naalaikku exam 9 manikku start aagum nu department notice potrukku.,TL-L009
+S248,delivery_update,tanglish,legitimate,Customer service desk naalaikku 10 manikku open aagum.,TL-L015
+S254,delivery_update,tanglish,legitimate,Company employee portal la unga payslip available ah irukku.,TL-L021
+S260,delivery_update,tanglish,legitimate,Public library Sunday kaalai 11 manikku open aagum.,TL-L027
+S266,delivery_update,tanglish,legitimate,Order confirmation la pickup location mention pannirukku.,TL-L033
+S109,job_scam,en,suspicious,Pay a recruitment deposit today to guarantee the job offer.,EN-S009
+S121,job_scam,en,suspicious,Your payroll is blocked until you pay a verification charge to this agent.,EN-S021
+S133,job_scam,en,suspicious,An unknown recruiter promises high pay but requests an upfront training fee.,EN-S033
+S009,job_scam,ta,suspicious,வரி அபராதம் வரும் என்று மிரட்டி உடனே பணம் செலுத்தச் சொல்கிறது.,TA-S009
+S021,job_scam,ta,suspicious,உங்கள் மொபைல் இணைப்பு நிறுத்தப்படும் எனக் கூறி அடையாள எண் மற்றும் OTP கேட்கிறது.,TA-S021
+S033,job_scam,ta,suspicious,வங்கி கணக்கைச் சரிசெய்ய ரகசிய PIN-ஐ தொலைபேசியில் சொல்லுமாறு கேட்கிறது.,TA-S033
+S209,job_scam,tanglish,suspicious,Job confirm aaganumna recruitment deposit innikke pay pannanum nu solraanga.,TL-S009
+S221,job_scam,tanglish,suspicious,Salary release aaganumna verification charge agent ku pay pannanum nu solraanga.,TL-S021
+S233,job_scam,tanglish,suspicious,High salary job nu promise panni upfront training fee kekkuraanga.,TL-S033
+S106,malicious_app,en,suspicious,Install this attached security app to prevent your account from being suspended.,EN-S006
+S118,malicious_app,en,suspicious,Claim your cashback by logging in through this shortened link.,EN-S018
+S130,malicious_app,en,suspicious,An official-sounding message threatens arrest unless you transfer funds today.,EN-S030
+S006,malicious_app,ta,suspicious,நிறுவனத்தில் வேலை உறுதி செய்ய முன்பணம் செலுத்தச் சொல்கிறார்கள்.,TA-S006
+S018,malicious_app,ta,suspicious,வங்கி மோசடி தடுப்பு குழு என்று கூறி முழு அட்டை விவரங்களைக் கேட்கிறது.,TA-S018
+S030,malicious_app,ta,suspicious,முதலீட்டில் உறுதியான லாபம் தருவதாகக் கூறி இன்றே பணம் அனுப்ப அழுத்துகிறது.,TA-S030
+S206,malicious_app,tanglish,suspicious,Security app nu solli unknown APK install panna pressure panraanga.,TL-S006
+S218,malicious_app,tanglish,suspicious,Cashback claim panna shortened link la login pannu nu solraanga.,TL-S018
+S230,malicious_app,tanglish,suspicious,Official nu sound aagura message innikke money transfer pannalana arrest nu threaten pannudhu.,TL-S030
+S101,otp_request,en,suspicious,Your account will be frozen tonight unless you send the verification code in this chat.,EN-S001
+S113,otp_request,en,suspicious,Pay customs clearance through this link before your parcel is returned.,EN-S013
+S125,otp_request,en,suspicious,Pay a refundable deposit to reserve the prize you supposedly won.,EN-S025
+S001,otp_request,ta,suspicious,உங்கள் வங்கிக் கணக்கு முடங்கிவிடும்; சரிபார்ப்புக்காக OTP-ஐ உடனே அனுப்புங்கள்.,TA-S001
+S013,otp_request,ta,suspicious,போலி வாடிக்கையாளர் சேவை முகவர் திரையைப் பகிரும் செயலியை நிறுவச் சொல்கிறார்.,TA-S013
+S025,otp_request,ta,suspicious,பணத்தைப் பெற முதலில் உங்கள் திரையைப் பகிர்ந்து வங்கி செயலியைத் திறக்கச் சொல்கிறது.,TA-S025
+S201,otp_request,tanglish,suspicious,Account block aagidum nu solli indha chat la OTP anuppa solraanga.,TL-S001
+S213,otp_request,tanglish,suspicious,Parcel return aagidum nu solli unknown link la customs fee kekkuraanga.,TL-S013
+S225,otp_request,tanglish,suspicious,Prize reserve panna refundable deposit first pay pannanum nu kekkuraanga.,TL-S025
+S103,prize_fee,en,suspicious,"You have won a reward, but a processing fee must be paid first.",EN-S003
+S115,prize_fee,en,suspicious,A caller claiming to be your bank asks you to install a remote-access tool.,EN-S015
+S127,prize_fee,en,suspicious,Your bill is overdue; send the amount to this personal payment ID.,EN-S027
+S003,prize_fee,ta,suspicious,டெலிவரி தோல்வியடைந்தது; பார்சலை மீண்டும் அனுப்ப இந்த அறியாத இணைப்பில் கட்டணம் செலுத்துங்கள்.,TA-S003
+S015,prize_fee,ta,suspicious,கூரியர் முகவர் போல நடித்து சிறிய நிலுவைக் கட்டணத்தை அறியாத இணைப்பில் செலுத்தச் சொல்கிறது.,TA-S015
+S027,prize_fee,ta,suspicious,போலி வங்கி எச்சரிக்கை உங்கள் கடவுச்சொல்லை பதிலாக அனுப்பச் சொல்கிறது.,TA-S027
+S203,prize_fee,tanglish,suspicious,"Prize win pannirukeenga, aana first processing fee kattunga nu message vandhirukku.",TL-S003
+S215,prize_fee,tanglish,suspicious,Bank agent nu solli remote-access app install panna solraanga.,TL-S015
+S227,prize_fee,tanglish,suspicious,Bill overdue nu solli personal payment ID ku amount anuppa solraanga.,TL-S027
+S171,question,en,neutral,The group chat has a new message.,EN-N004
+S175,question,en,neutral,Call me when the meeting is over.,EN-N008
+S179,question,en,neutral,Could you send me your class notes?,EN-N012
+S183,question,en,neutral,Do you think that shop is open on Sundays?,EN-N016
+S187,question,en,neutral,Who is attending today's meeting?,EN-N020
+S191,question,en,neutral,I am in class right now.,EN-N024
+S195,question,en,neutral,Do you remember what we were discussing?,EN-N028
+S199,question,en,neutral,We can discuss today's work this evening.,EN-N032
+S071,question,ta,neutral,நீங்கள் வீட்டை அடைந்ததும் எனக்குச் சொல்லுங்கள்.,TA-N004
+S075,question,ta,neutral,நான் பேருந்து நிறுத்தத்தில் காத்திருக்கிறேன்.,TA-N008
+S079,question,ta,neutral,நாளைய திட்டம் இன்னும் உறுதியாகவில்லை.,TA-N012
+S083,question,ta,neutral,நான் கொஞ்சம் தாமதமாக வருவேன்.,TA-N016
+S087,question,ta,neutral,நீங்கள் அனுப்பிய கோப்பைப் பார்த்துவிட்டேன்.,TA-N020
+S091,question,ta,neutral,உங்கள் கருத்தைச் சொல்ல நேரம் கிடைக்குமா?,TA-N024
+S095,question,ta,neutral,நாளை காலை என்ன திட்டம்?,TA-N028
+S099,question,ta,neutral,காபி குடிக்கச் செல்லலாமா?,TA-N032
+S270,question,tanglish,neutral,Group chat la pudhu message vandhirukku.,TL-N004
+S274,question,tanglish,neutral,Meeting mudinja apram enakku call pannu.,TL-N008
+S278,question,tanglish,neutral,Un class notes enakku anuppa mudiyuma?,TL-N012
+S282,question,tanglish,neutral,Andha shop Sunday open irukkuma nu ninaikkira?,TL-N016
+S286,question,tanglish,neutral,Innikki meeting ku yaar yaar varanga?,TL-N020
+S290,question,tanglish,neutral,Naan ippo class la irukken.,TL-N024
+S294,question,tanglish,neutral,Naama pesina vishayam nyabagam irukka?,TL-N028
+S298,question,tanglish,neutral,Innikki work pathi evening pesalaam.,TL-N032
+S138,receipt,en,legitimate,Please return the library book by Friday.,EN-L005
+S144,receipt,en,legitimate,Your bookstore order has shipped; use the retailer's usual tracking page.,EN-L011
+S150,receipt,en,legitimate,A payment receipt has been sent to your registered email address.,EN-L017
+S156,receipt,en,legitimate,Call the clinic's usual published number if you need to confirm the appointment.,EN-L023
+S162,receipt,en,legitimate,Tomorrow's training session has moved to 6 PM.,EN-L029
+S039,receipt,ta,legitimate,நூலகப் புத்தகத்தை வெள்ளிக்கிழமைக்குள் திருப்பித் தரவும்.,TA-L005
+S045,receipt,ta,legitimate,புத்தகக் கடையிலிருந்து ஆர்டர் அனுப்பப்பட்டுள்ளது; வழக்கமான கண்காணிப்பு பக்கத்தைப் பார்க்கவும்.,TA-L011
+S051,receipt,ta,legitimate,உங்கள் மின்னஞ்சல் முகவரிக்கு கட்டண ரசீது அனுப்பப்பட்டுள்ளது.,TA-L017
+S057,receipt,ta,legitimate,பல் மருத்துவர் சந்திப்பை உறுதிப்படுத்த கிளினிக்கின் வழக்கமான எண்ணை அழைக்கலாம்.,TA-L023
+S063,receipt,ta,legitimate,பயிற்சி வகுப்பின் நேரம் நாளை மாலை ஆறு மணியாக மாற்றப்பட்டுள்ளது.,TA-L029
+S238,receipt,tanglish,legitimate,Library book ah Friday kulla return pannunga.,TL-L005
+S244,receipt,tanglish,legitimate,Bookstore order ship pannitaanga; regular tracking page la check pannunga.,TL-L011
+S250,receipt,tanglish,legitimate,Payment receipt registered email ku anuppirukkaanga.,TL-L017
+S256,receipt,tanglish,legitimate,Appointment confirm panna clinic oda usual published number ku call pannalaam.,TL-L023
+S262,receipt,tanglish,legitimate,Naalaikku training session 6 mani ku maathirukkaanga.,TL-L029
+S111,refund_phishing,en,suspicious,Your refund is ready; enter your full card details on this unverified page.,EN-S011
+S123,refund_phishing,en,suspicious,Your friend is in trouble; transfer money now and do not call anyone.,EN-S023
+S011,refund_phishing,ta,suspicious,உங்கள் UPI கணக்கைத் திறக்க ரகசிய PIN-ஐ ஆதரவு ஊழியரிடம் சொல்லுங்கள் என்கிறது.,TA-S011
+S023,refund_phishing,ta,suspicious,உங்கள் நண்பரின் கணக்கு ஹேக் ஆனது என்று கூறி இந்த இணைப்பைத் திறக்கச் சொல்கிறது.,TA-S023
+S211,refund_phishing,tanglish,suspicious,Refund release panna unfamiliar page la full card details enter panna solraanga.,TL-S011
+S223,refund_phishing,tanglish,suspicious,Friend problem la irukkaan nu solli yaarukkum call pannama money anuppa solraanga.,TL-S023
+S137,routine_bill,en,legitimate,The monthly electricity bill is available in the provider's official app.,EN-L004
+S143,routine_bill,en,legitimate,Your dentist appointment remains scheduled for the time you booked.,EN-L010
+S149,routine_bill,en,legitimate,Your bus ticket booking has been confirmed.,EN-L016
+S155,routine_bill,en,legitimate,The monthly bank statement is ready to download from your account.,EN-L022
+S161,routine_bill,en,legitimate,Your internet bill receipt shows that payment was completed.,EN-L028
+S167,routine_bill,en,legitimate,The library has extended its opening hours during exam week.,EN-L034
+S038,routine_bill,ta,legitimate,இந்த மாத மின்சாரக் கட்டணம் அதிகாரப்பூர்வ செயலியில் செலுத்தத் தயாராக உள்ளது.,TA-L004
+S044,routine_bill,ta,legitimate,உங்கள் மருத்துவர் சந்திப்பு முன்பதிவு செய்யப்பட்ட நேரத்தில் நடைபெறும்.,TA-L010
+S050,routine_bill,ta,legitimate,பேருந்து பயணச்சீட்டு முன்பதிவு உறுதிப்படுத்தப்பட்டுள்ளது.,TA-L016
+S056,routine_bill,ta,legitimate,வங்கிக் கணக்கு அறிக்கை இந்த மாதத்திற்காக பதிவிறக்கத் தயாராக உள்ளது.,TA-L022
+S062,routine_bill,ta,legitimate,உங்கள் இணையச் சேவை பில் செலுத்தப்பட்டதாக ரசீது காட்டுகிறது.,TA-L028
+S237,routine_bill,tanglish,legitimate,Indha maasa current bill provider oda official app la irukku.,TL-L004
+S243,routine_bill,tanglish,legitimate,Dentist appointment neenga book panna time la nadakkum.,TL-L010
+S249,routine_bill,tanglish,legitimate,Bus ticket booking confirm aagirukku.,TL-L016
+S255,routine_bill,tanglish,legitimate,Monthly bank statement account la download panna ready ah irukku.,TL-L022
+S261,routine_bill,tanglish,legitimate,Internet bill paid nu receipt kaattudhu.,TL-L028
+S169,scheduling,en,neutral,What time do you think you will arrive tomorrow?,EN-N002
+S173,scheduling,en,neutral,Would you like to watch a movie this weekend?,EN-N006
+S177,scheduling,en,neutral,The weather looks pleasant this afternoon.,EN-N010
+S181,scheduling,en,neutral,What time does the lecture finish?,EN-N014
+S185,scheduling,en,neutral,I find this chapter a little difficult.,EN-N018
+S189,scheduling,en,neutral,We can meet sometime next week.,EN-N022
+S193,scheduling,en,neutral,Have you finished the assignment?,EN-N026
+S197,scheduling,en,neutral,They have not returned from the office yet.,EN-N030
+S069,scheduling,ta,neutral,நாம் சந்திப்பை வெள்ளிக்கிழமைக்கு மாற்றலாமா?,TA-N002
+S073,scheduling,ta,neutral,நாளை நூலகத்துக்குப் போகிறாயா?,TA-N006
+S077,scheduling,ta,neutral,உங்களுக்கு அந்தப் புத்தகம் பிடித்ததா?,TA-N010
+S081,scheduling,ta,neutral,நாம் சந்திக்கும் இடத்தை மீண்டும் சொல்லுங்கள்.,TA-N014
+S085,scheduling,ta,neutral,நாளை காலை நடைப்பயிற்சிக்கு வருகிறாயா?,TA-N018
+S089,scheduling,ta,neutral,மழை வந்தால் வெளியே போகாமல் இருக்கலாம்.,TA-N022
+S093,scheduling,ta,neutral,புதிய உணவகத்தை முயற்சி செய்து பார்க்கலாமா?,TA-N026
+S097,scheduling,ta,neutral,கடந்த வாரப் புகைப்படங்களைப் பார்த்தாயா?,TA-N030
+S268,scheduling,tanglish,neutral,Meeting ah Friday afternoon ku maathalama?,TL-N002
+S272,scheduling,tanglish,neutral,Indha weekend movie paarkalama?,TL-N006
+S276,scheduling,tanglish,neutral,Innikki afternoon weather nalla irukku.,TL-N010
+S280,scheduling,tanglish,neutral,Lecture ethana manikku mudiyum?,TL-N014
+S284,scheduling,tanglish,neutral,Indha chapter enakku konjam kashtama irukku.,TL-N018
+S288,scheduling,tanglish,neutral,Next week yedhaavadhu oru naal meet pannalaam.,TL-N022
+S292,scheduling,tanglish,neutral,Assignment mudichitiya?,TL-N026
+S296,scheduling,tanglish,neutral,Avar innum office la irundhu varala.,TL-N030
+S300,scheduling,tanglish,neutral,Weekend la free ah iruppiya?,TL-N034
+S110,threat_based_payment,en,suspicious,An officer says a legal case will be filed unless you pay immediately.,EN-S010
+S122,threat_based_payment,en,suspicious,Download this APK to receive the tax refund.,EN-S022
+S010,threat_based_payment,ta,suspicious,பணத்தைத் திரும்பப் பெற உங்கள் வங்கி கடவுச்சொல்லை இந்தப் படிவத்தில் உள்ளிடச் சொல்கிறது.,TA-S010
+S022,threat_based_payment,ta,suspicious,அரசு நிதியுதவி கிடைத்ததாகக் கூறி செயலாக்கக் கட்டணம் கேட்கிறது.,TA-S022
+S034,threat_based_payment,ta,suspicious,அறியாத ஆதரவு முகவர் பாதுகாப்பு புதுப்பிப்பு என்ற பெயரில் APK கோப்பை நிறுவச் சொல்கிறார்.,TA-S034
+S210,threat_based_payment,tanglish,suspicious,Case file panniduvaanga nu bayamuruthi immediate payment kekkuraanga.,TL-S010
+S222,threat_based_payment,tanglish,suspicious,Tax refund kidaikka indha APK download pannunga nu message soludhu.,TL-S022
+S105,urgent_money_request,en,suspicious,Transfer money to this new account immediately; I cannot talk on the phone.,EN-S005
+S117,urgent_money_request,en,suspicious,Send money for an emergency; I am using a new number and cannot explain.,EN-S017
+S129,urgent_money_request,en,suspicious,Your delivery address is wrong; submit card details on this unfamiliar site.,EN-S029
+S005,urgent_money_request,ta,suspicious,உங்கள் மின்சார இணைப்பு இன்று இரவு துண்டிக்கப்படும்; உடனே இந்த எண்ணுக்கு பணம் அனுப்புங்கள்.,TA-S005
+S017,urgent_money_request,ta,suspicious,பணம் தவறுதலாக வந்ததாகக் கூறி வேறு கணக்குக்கு உடனே திருப்பி அனுப்பச் சொல்கிறார்.,TA-S017
+S029,urgent_money_request,ta,suspicious,வெகுமதி கிடைக்க உங்கள் கணக்கில் உள்நுழைந்து பாதுகாப்பு குறியீட்டை வழங்கச் சொல்கிறது.,TA-S029
+S205,urgent_money_request,tanglish,suspicious,"Phone la pesa mudiyadhu, indha pudhu account ku udane money transfer pannu nu solraanga.",TL-S005
+S217,urgent_money_request,tanglish,suspicious,Emergency nu solli pudhu number la irundhu udane money anuppa solraanga.,TL-S017
+S229,urgent_money_request,tanglish,suspicious,Delivery address wrong nu solli unknown site la card details kekkudhu.,TL-S029
+S107,utility_threat,en,suspicious,Your electricity service will be disconnected unless you pay this personal wallet now.,EN-S007
+S119,utility_threat,en,suspicious,Your account has suspicious activity; reply with your password to stop it.,EN-S019
+S131,utility_threat,en,suspicious,Your account needs urgent verification; send the authentication code by text.,EN-S031
+S007,utility_threat,ta,suspicious,உங்கள் கணக்கு பாதுகாப்புக்காக இந்தச் செய்தியில் உள்ள செயலியை நிறுவச் சொல்கிறார்கள்.,TA-S007
+S019,utility_threat,ta,suspicious,புதிய வேலைக்கான நேர்காணலுக்கு முன் பாதுகாப்பு வைப்பு செலுத்த வேண்டும் என்கிறது.,TA-S019
+S031,utility_threat,ta,suspicious,உங்கள் சம்பளம் விடுவிக்க HR சரிபார்ப்பு கட்டணம் செலுத்த வேண்டும் என்கிறது.,TA-S031
+S207,utility_threat,tanglish,suspicious,Current cut panniduvaanga nu solli personal wallet ku payment kekkuraanga.,TL-S007
+S219,utility_threat,tanglish,suspicious,Account suspicious activity nu solli password reply panna kekkuraanga.,TL-S019
+S231,utility_threat,tanglish,suspicious,Urgent verification nu solli authentication code text la anuppa solraanga.,TL-S031
